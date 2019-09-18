@@ -1,4 +1,5 @@
 # 真央ゼミWebサイト
+<<<<<<< HEAD
 真央ゼミのWebサイト用リポジトリです。
 
 ♯メンバー
@@ -6,6 +7,9 @@
 エルマス
 わかば
 
+=======
+C&R大学　真央ゼミのWebサイト用リポジトリです。
+>>>>>>> origin/patch-1
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
